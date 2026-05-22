@@ -28,6 +28,7 @@ def calculate_average(scores):
     return sum(scores.values()) / len(scores)
 
 def print_result(scores, average):
+def find_highest_lowest(scores):
 
 if __name__ == "__main__":
     scores = get_scores()
